@@ -82,7 +82,7 @@ app = FastAPI(
 #   credentials are allowed: browsers refuse "*" together with credentials.
 # The Flutter mobile app is not a browser, so CORS does not apply to it.
 ALLOWED_ORIGINS = [
-    "https://your-service.onrender.com",  # TODO Day 5: replace with the real Render URL
+    "https://rwanda-food-price-api.onrender.com",  # the deployed Render service (serves Swagger UI)
     "http://localhost:8080",              # local Flutter web debug (fixed --web-port)
     "http://127.0.0.1:8080",
     "http://localhost:3000",
