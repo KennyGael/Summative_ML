@@ -21,7 +21,7 @@ The API is hosted on Render's free plan, so it sleeps after 15 minutes without t
 
 ## 4. Video demo
 
-https://youtu.be/gmUQGSVW328
+https://youtu.be/xqKH6Dpo__o
 
 ## 5. How to run the mobile app
 
